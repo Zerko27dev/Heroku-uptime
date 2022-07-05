@@ -1,0 +1,22 @@
+{
+    "name": "heroku-uptime",
+    "version": "1.0.0",
+    "description": "deploy bot to heroku platform",
+    "main": "index.js",
+    "scripts": {
+        "start": "yarn install && yarn ts-node -r dotenv/config index.ts"
+    },
+    "keywords": [
+        "heroku",
+        "deploy"
+    ],
+    "author": "Miyu",
+    "license": "MIT",
+    "packageManager": "yarn@3.2.1",
+    "devDependencies": {
+        "discord.js": "^13.8.1",
+        "dotenv": "^16.0.1",
+        "ts-node": "^10.8.2",
+        "typescript": "^4.7.4"
+    }
+}
