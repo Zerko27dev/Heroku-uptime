@@ -1,5 +1,5 @@
 .github
-.yarn
-.yarnrc.yml
+.yarn/*
+.yarn/repleases
 .env
 .pnp.*

@@ -4,7 +4,7 @@
     "description": "deploy bot to heroku platform",
     "main": "index.js",
     "scripts": {
-        "start": "yarn install && yarn ts-node -r dotenv/config index.ts"
+        "start": "yarn ts-node -r dotenv/config index.ts"
     },
     "keywords": [
         "heroku",
