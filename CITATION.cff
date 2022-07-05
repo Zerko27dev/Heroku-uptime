@@ -1,0 +1,8 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+title: "heroku/uptimer"
+authors:
+  - family-names: himei
+    given-names: miyu
+repository-code: "https://github.com/Miyu-Tenshi/heroku-uptime"
+license: MIT
